@@ -1,0 +1,51 @@
+/* Header */
+/* .content {
+	font-family: futura-pt, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 22px;
+	letter-spacing: 0em;
+	line-height: 1.7em;
+	text-transform: none;
+	color: rgba(29, 29, 29, .7);
+	white-space: pre-wrap;
+}
+.content h1 {
+	font-size: 32px;
+	letter-spacing: 0.181961px;
+	line-height: 32px;
+	text-align: center;
+} */
+/* Main */
+.main {
+	font-family: 'Roboto', 'Roboto Mono', sans-serif;
+	color: #9d9d9d;
+	width: 300px;
+	padding: 10px;
+	border: 1px solid #343a40;
+	border-radius: .4rem;
+	line-height: 1.8;
+}
+.main h1 {
+}
+.main-info {
+	margin: 0px;
+	padding: 10px;
+	border: 1px solid #343a40;
+	border-radius: .4rem;
+}
+.list-info {
+	padding: 0;
+	margin: 0;
+}
+.main h1,
+h4 {
+	color: #343a40;
+}
+.main li {
+	list-style: none;
+	padding: 0px;
+}
+span {
+	font-weight: bolder;
+}
